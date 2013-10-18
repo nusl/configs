@@ -1,0 +1,11 @@
+URxvt*scrollBar: false
+URxvt*depth: 32
+URxvt*jumpScroll: true
+URxvt*skipScroll: true
+URxvt*visualBell: false
+URxvt*buffered: true
+URxvt*background: rgba:0000/0000/0000/DF00
+URxvt*foreground: white
+URxvt*fading: 10
+URxvt*fadeColor: grey
+URxvt*shading: 15
